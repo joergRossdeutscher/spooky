@@ -1,6 +1,7 @@
 {
     "name": "joergrossdeutscher/spooky",
-    "type": "project",
+    "type": "symfony-bundle",
+    "description": "spooky lib",
     "license": "proprietary",
     "require": {
         "php": "^7.1.3",
